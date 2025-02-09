@@ -2,7 +2,7 @@
 
 ## Project Overview
 
--**The Course management system is a web-based application designed to modernize the administration, management, and delivery of academic courses. It facilitates interaction between students, faculty, and administrators while ensuring secure access to course materials, grades, and other essential academic resources.
+- **The Course management system is a web-based application designed to modernize the administration, management, and delivery of academic courses. It facilitates interaction between students, faculty, and administrators while ensuring secure access to course materials, grades, and other essential academic resources.
 
 
 ## Core Features
