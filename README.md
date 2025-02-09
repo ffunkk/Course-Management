@@ -9,7 +9,7 @@
 - **Grade Management**: (Record and compute student grades).
 - **Reporting System**: (Generate detailed reports on grades, class lists, and faculty loads).
 
-##Technology Stack
+## Technology Stack
 
 - **Frontend**: React.js (for a dynamic and responsive user interface).
 - **Backend**: Django (to handle business logic and API development).
