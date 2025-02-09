@@ -11,7 +11,7 @@
 
 ##Technology Stack
 
-- **Frontend: React.js (for a dynamic and responsive user interface).
-- **Backend: Django (to handle business logic and API development).
-- **Database: PostgreSQL (to store and manage user and course data).
+- **Frontend**: React.js (for a dynamic and responsive user interface).
+- **Backend**: Django (to handle business logic and API development).
+- **Database**: PostgreSQL (to store and manage user and course data).
 
